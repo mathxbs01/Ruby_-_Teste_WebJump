@@ -1,1 +1,1 @@
-# Teste_WebJump
+# Automação de testes com Ruby WebJump
